@@ -17,7 +17,9 @@ public class MainActivity extends AppCompatActivity
 @Override
     protected void onCreate(Bundle savedInstanceState) 
 ```
-4- we call this `Activity` method to get the UI related to this activity 
+4- we call this `Activity` method to get the UI related to this activity, this method inflates the layout and put it on the screen  
 ```java
 setContentView(R.layout.activity_main);
 ```
+### Resource  
+is a piece of your application that is not code – things like image files, audio files, and XML files.  
