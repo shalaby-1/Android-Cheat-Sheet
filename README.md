@@ -24,7 +24,7 @@ setContentView(R.layout.activity_main);
 ### Resource  
 is a piece of your application that is not code – things like image files, audio files, and XML files.  
 ### Getting references to widgets  
-In an activity, you can get a reference to an inflated widget by calling the following Activity method:
+In an activity, you can get a reference to an inflated widget by calling the following `Activity` method:
 ```java
 public View findViewById(int id)
 ```
