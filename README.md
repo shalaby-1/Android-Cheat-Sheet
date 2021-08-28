@@ -43,5 +43,6 @@ mFalseButton =  findViewById(R.id.false_button);
 }
 }
 ```
-
+### Android Applications are Event Driven Applications
+Unlike command-line programs or scripts, event-driven applications start and then wait for an event, such as the user pressing a button. 
 
