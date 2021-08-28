@@ -29,5 +29,9 @@ In an activity, you can get a reference to an inflated widget by calling the fol
 public View findViewById(int id)
 ```
 This method accepts a resource ID of a widget and returns a View object.
+example of usage  
+```java
+mTrueButton = findViewById(R.id.true_button);
+```
 
 
