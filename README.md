@@ -3,4 +3,7 @@
 ### local variable : defined inside a method  
 ### What is 'Context' on Android?  
 current state of the application/object. It lets newly-created objects understand what has been going on
-`Main Activity` 
+### Steps to run app  
+1- sub class of `Activity` is automatically created in java folder  
+2- `AppCompatActivity` is subclass of Android’s Activity class that provides compatibility support for older versions of Android  
+
